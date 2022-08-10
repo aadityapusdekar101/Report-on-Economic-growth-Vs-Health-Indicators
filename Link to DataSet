@@ -1,0 +1,4 @@
+You can investigate the full range of indices available from the World Bank at their data
+website, which also includes some basic visualisation tools http://data.worldbank.
+org/. I have also used a dedicated R package to access this information, available here:
+https://cran.r-project.org/web/packages/WDI/index.html
